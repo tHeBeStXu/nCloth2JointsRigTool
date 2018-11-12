@@ -9,7 +9,7 @@ If you're not satisfied with some detailed actions for nCloth simulating result,
 # How to install:
 1. Download the project file and unzip it somewhere in the computer, make ture to remember the directory of the unzip file location;  
 2. Open Maya 2017+ and open script Editor;  
-3. New a Python tab, and enter following scrip;  
+3. New a Python tab, and enter following script;  
 Dir = 'X:\WHERE\YOU\PUT\THE\FILE'  
 import sys  
 

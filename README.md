@@ -4,7 +4,7 @@ This Maya plug-in is used for simulate dynamic cloth actions for game engine(UE4
 You can use it to rig for original in game mesh or the proxy mesh(low detailed).  
 If you used it for proxy mesh of the cloth, it will generate a well skined proxy mesh,  
 then you can transfer the skin weights to the original in game mesh.  
-If you're not satisfied with some detailed actions for nCloth simulating result, you can Bake the actions and turn them manully.  
+If you're not satisfied with some detailed actions for nCloth sim result, you can Bake the actions to the Ctls and turn them manully.  
 
 # How to install:
 1. Download the project file and unzip it somewhere in the computer, make ture to remember the directory of the unzip file location;  

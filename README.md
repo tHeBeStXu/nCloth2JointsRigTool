@@ -2,7 +2,7 @@
 nCloth to Joints Rig Tool for Game(Maya Plug-in)  
 This Maya plug-in is used for simulate dynamic cloth actions for game engine(UE4) by nCloth.  
 You can use it to rig the proxy mesh(especially) for original in game mesh.  
-it will generate a well skined proxy mesh, then you can transfer the skin weights to the original in game mesh.  
+It will generate a well skined proxy mesh, then you can transfer the skin weights to the original in game mesh.  
 If you're not satisfied with some detailed actions for nCloth sim result, you can Bake the actions to the Ctls and turn them manully.  
 
 # How to install:

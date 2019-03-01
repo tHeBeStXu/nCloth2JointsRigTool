@@ -9,17 +9,17 @@ If you're not satisfied with some detailed actions for nCloth sim result, you ca
 1. Download the project file and unzip it somewhere in the computer, make ture to remember the directory of the unzip file location;  
 2. Open Maya 2017+ and open script Editor;  
 3. New a Python tab, and enter following script;  
-Dir = 'X:\WHERE\YOU\PUT\THE\FILE'  
-import sys  
+   Dir = 'X:\WHERE\YOU\PUT\THE\FILE'  
+   import sys  
 
-if Dir not in sys.path:		
+   if Dir not in sys.path:		
 				sys.path.append(r'X:\WHERE\YOU\PUT\THE\FILE') 
 
-import nCloth2JointRigTool  
-from nCloth2JointRigTool.UI import Main_UI  
-reload(Main_UI)  
+   import nCloth2JointRigTool  
+   from nCloth2JointRigTool.UI import Main_UI  
+   reload(Main_UI)  
 
-ui = Main_UI.MainUI()  
+   ui = Main_UI.MainUI()  
 
 # How to Use:
 I will record a video for using this script. To be continued...    

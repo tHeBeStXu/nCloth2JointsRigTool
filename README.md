@@ -22,7 +22,7 @@ If you're not satisfied with some detailed actions for nCloth sim result, you ca
    ui = Main_UI.MainUI()  
 
 # How to Use:
-I will record a video for using this script. To be continued...    
+Please go to: https://www.bilibili.com/video/av45004141. If you have any question, please e-mail me.        
 
 # Bugs:  
 If you find any type of bugs, please e-mail me at: 328665042@qq.com.    
